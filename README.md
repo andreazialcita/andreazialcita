@@ -2,8 +2,7 @@
 
 <h2>Probabilistic Machine Learning:</h2>
 
-- <b>Coding Exercises</b>
-  - [Class Outputs](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
+- [Class Outputs](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
 
 <h2>Computer Simulation</h2>
 
