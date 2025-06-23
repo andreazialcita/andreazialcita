@@ -2,8 +2,8 @@
 
 <h2>Probabilistic Machine Learning:</h2>
 
-- <b>Linear Regression</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Exercises</b>
+  - [Praciting DS & Algos in Python](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
 - <b>Linear and Quadratic Discriminant Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Support Vector Machines</b>
