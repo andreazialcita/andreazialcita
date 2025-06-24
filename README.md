@@ -7,21 +7,21 @@
 <h2>👩🏻‍💻 Computer Simulation</h2>
 
 - [Lab Outputs](https://github.com/andreazialcita/Computer-Simulation)
-- [Final Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2>🧠 Introduction to Artificial Intelligence</h2>
 
-- [Project](https://github.com/andreazialcita/Introduction-to-AI)
+- [Pair Project: 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
 
 <h2>➕ Ordinary Differential Equations</h2>
 
-- [Mathematical modeling and dynamical analysis of 
+- [Group Project: Mathematical modeling and dynamical analysis of 
 anti-tumor drug
 dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations)
 
 <h2>📈 Time Series</h2>
 
-- [Project](https://github.com/andreazialcita/Time-Series)
+- [Group Project](https://github.com/andreazialcita/Time-Series)
 
 <h2> 🤳 Connect with me:</h2>
 
