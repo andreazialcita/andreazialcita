@@ -11,7 +11,7 @@
 
 <h2>🧠 Introduction to Artificial Intelligence</h2>
 
-- [Project](https://github.com/andreazialcita/Ordinary-Differential-Equations)
+- [Project](https://github.com/andreazialcita/Introduction-to-AI)
 
 <h2>➕ Ordinary Differential Equations</h2>
 
