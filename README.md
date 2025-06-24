@@ -11,7 +11,7 @@ dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations
 <h2>💻 Computer-based Projects</h2>
 
 - Computer Simulation
-  - [Lab Outputs](https://github.com/andreazialcita/Computer-Simulation)
+  - [Laboratory Outputs](https://github.com/andreazialcita/Computer-Simulation)
   - [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - Introduction to Artificial Intelligence</h2>
   - [Pair Project: 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
