@@ -24,12 +24,4 @@ I am an Applied Mathematics in Data Science major at Ateneo de Manila University
 
 <h2>🤳 Connect with Me</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/andizialcita/" target="_blank">
-    <img align="left" alt="andizialcita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
-<br />
-
-- Email: amzialcita@gmail.com
+- <b> Email: </b> amzialcita@gmail.com
