@@ -1,4 +1,5 @@
 <h1>Hi, I'm Andi! </h1>
+This is a repository of everything related to Math and Computer Science that I have worked on from high school to college.
 
 <h2>📐 Math-based Projects</h2>
 
