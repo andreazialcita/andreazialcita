@@ -14,7 +14,7 @@ dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations
   - [Laboratory Outputs](https://github.com/andreazialcita/Computer-Simulation)
   - [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - Introduction to Artificial Intelligence</h2>
-  - [Pair Project: 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
+  - [Solving an 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
 - Empowerment Technologies
   - [Cashflow Pro](https://github.com/andreazialcita/Empowerment-Technologies)
 
