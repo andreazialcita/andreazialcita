@@ -16,6 +16,7 @@ dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations
 - Introduction to Artificial Intelligence</h2>
   - [Pair Project: 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
 - Empowerment Technologies
+  - [Cashflow Pro]()
 
 <h2>📂 Others</h2>
 
