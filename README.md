@@ -22,26 +22,14 @@ I am an Applied Mathematics in Data Science major in Ateneo de Manila, and am hi
 - [LaTeX](https://github.com/andreazialcita/Computer-Simulation)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with Me</h2>
 
+<p>
+  <a href="https://www.linkedin.com/in/andizialcita/" target="_blank">
+    <img align="left" alt="andizialcita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
 
-[<img align="left" alt="andizialcita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-<!--
-**andreazialcita/andreazialcita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Email: amzialcita@gmail.com
