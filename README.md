@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andi! </h1>
-This is a repository of everything related to Math and Computer Science that I have worked on from high school to college. As I progress in my career, I will be updating this repository with outputs I produce and projects I work on. 
+I am an Applied Mathematics in Data Science major in Ateneo de Manila, and am highly interested in data-driven modeling and real-world problem solving. This repository serves as a collection of projects and outputs I've completed from high school through college. As I continue to progress through my academic and professional career, I will be updating this space with new work and ongoing projects.
 
 <h2>📐 Math-based Projects</h2>
 
