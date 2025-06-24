@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andi! <br/><a href="https://github.com/joshmadakor1">Applied Mathematics in Data Science</a></h1>
+<h1>Hi, I'm Andi! </h1>
 
 <h2>📐 Math-based Projects</h2>
 
