@@ -11,11 +11,11 @@ I am an Applied Mathematics in Data Science major at Ateneo de Manila University
 
 - Computer Simulation
   - [Laboratory Outputs](https://github.com/andreazialcita/Computer-Simulation)
-  - [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Group Project: Tagalog Sentiment Analysis] *** to edit
 - Introduction to Artificial Intelligence</h2>
   - [8-Puzzle Solver](https://github.com/andreazialcita/Introduction-to-AI)
 - Empowerment Technologies
-  - [Cashflow Pro](https://github.com/andreazialcita/Empowerment-Technologies)
+  - [Cashflow Pro] *** to edit
 
 <h2>📂 Others</h2>
 
