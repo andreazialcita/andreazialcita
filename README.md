@@ -13,7 +13,7 @@ I am an Applied Mathematics in Data Science major in Ateneo de Manila, and am hi
   - [Laboratory Outputs](https://github.com/andreazialcita/Computer-Simulation)
   - [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - Introduction to Artificial Intelligence</h2>
-  - [Solving an 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
+  - [8-Puzzle Solver](https://github.com/andreazialcita/Introduction-to-AI)
 - Empowerment Technologies
   - [Cashflow Pro](https://github.com/andreazialcita/Empowerment-Technologies)
 
