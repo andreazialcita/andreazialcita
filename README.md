@@ -19,7 +19,7 @@ I am an Applied Mathematics in Data Science major at Ateneo de Manila University
 
 <h2>📂 Others</h2>
 
-- [LaTeX](https://github.com/andreazialcita/Computer-Simulation)
+- [LaTeX](https://github.com/andreazialcita/LaTeX)
 
 
 <h2>🤳 Connect with Me</h2>
