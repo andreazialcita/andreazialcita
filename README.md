@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andi! </h1>
-I am an Applied Mathematics in Data Science major at Ateneo de Manila University, and am highly interested in data-driven modeling and real-world problem solving. This repository serves as a collection of projects and outputs I've completed from high school through college. As I continue to progress through my academic and professional career, I will be updating this space with new work and ongoing projects.
+I am an Applied Mathematics in Data Science major at Ateneo de Manila University, and I am highly interested in data-driven modeling and real-world problem solving. This repository serves as a collection of projects and outputs I've completed from high school through college. As I continue to progress through my academic and professional career, I will be updating this space with new work and ongoing projects.
 
 <h2>📐 Math-based Projects</h2>
 
