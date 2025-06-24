@@ -4,9 +4,7 @@ This is a repository of everything related to Math and Computer Science that I h
 <h2>📐 Math-based Projects</h2>
 
 - [Probabilistic Machine Learning](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
-- [Mathematical modeling and dynamical analysis of 
-anti-tumor drug
-dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations)
+- [Mathematical Analysis of Tumor Drug Dosing Through ODE Models](https://github.com/andreazialcita/Ordinary-Differential-Equations)
 - [Time Series Analysis of Ames Housing Data](https://github.com/andreazialcita/Time-Series)
 
 <h2>💻 Computer-based Projects</h2>
