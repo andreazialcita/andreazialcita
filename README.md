@@ -1,25 +1,25 @@
 <h1>Hi, I'm Andi! <br/><a href="https://github.com/joshmadakor1">Applied Mathematics in Data Science</a></h1>
 
-<h2>Probabilistic Machine Learning</h2>
+<h2>⚙️ Probabilistic Machine Learning</h2>
 
 - [Class Outputs](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
 
-<h2>Computer Simulation</h2>
+<h2>👩🏻‍💻 Computer Simulation</h2>
 
 - [Lab Outputs](https://github.com/andreazialcita/Computer-Simulation)
 - [Final Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-<h2>Introduction to Artificial Intelligence</h2>
+<h2>🧠 Introduction to Artificial Intelligence</h2>
 
 - [Project](https://github.com/andreazialcita/Ordinary-Differential-Equations)
 
-<h2>Ordinary Differential Equations</h2>
+<h2>➕ Ordinary Differential Equations</h2>
 
 - [Mathematical modeling and dynamical analysis of 
 anti-tumor drug
 dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations)
 
-<h2>Time Series</h2>
+<h2>📈 Time Series</h2>
 
 - [Project](https://github.com/andreazialcita/Ordinary-Differential-Equations)
 
