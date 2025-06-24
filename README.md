@@ -15,6 +15,12 @@ dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations
   - [Group Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - Introduction to Artificial Intelligence</h2>
   - [Pair Project: 8-Puzzle Problem](https://github.com/andreazialcita/Introduction-to-AI)
+- Empowerment Technologies
+
+<h2>📂 Others</h2>
+
+- [LaTeX](https://github.com/andreazialcita/Computer-Simulation)
+
 
 <h2> 🤳 Connect with me:</h2>
 
