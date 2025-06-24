@@ -21,7 +21,7 @@ dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations
 
 <h2>📈 Time Series</h2>
 
-- [Project](https://github.com/andreazialcita/Ordinary-Differential-Equations)
+- [Project](https://github.com/andreazialcita/Time-Series)
 
 <h2> 🤳 Connect with me:</h2>
 
