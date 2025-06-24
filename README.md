@@ -6,7 +6,7 @@
 
 <h2>Computer Simulation</h2>
 
-- [Lab Outputs](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Lab Outputs](https://github.com/andreazialcita/Computer-Simulation)
 - [Final Project: Tagalog Sentiment Analysis](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2>Ordinary Differential Equations</h2>
