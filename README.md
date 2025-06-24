@@ -3,10 +3,10 @@
 <h2>📐 Math-based Projects</h2>
 
 - [Probabilistic Machine Learning](https://github.com/andreazialcita/Probabilistic-Machine-Learning)
-- [Group Project: Mathematical modeling and dynamical analysis of 
+- [Mathematical modeling and dynamical analysis of 
 anti-tumor drug
 dose-response](https://github.com/andreazialcita/Ordinary-Differential-Equations)
-- [Group Project](https://github.com/andreazialcita/Time-Series)
+- [Time Series Analysis of Ames Housing Data](https://github.com/andreazialcita/Time-Series)
 
 <h2>💻 Computer-based Projects</h2>
 
